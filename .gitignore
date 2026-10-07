@@ -1,0 +1,4 @@
+/tests/artifacts/
+/tests/*.png
+/node_modules/
+/.env
